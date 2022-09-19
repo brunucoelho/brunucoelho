@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
   <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunucoelho&layout=compact&langs_count=20&theme=dark"/>
 </div>
   
-  ## 🛠 Languade and Tools
+  ## 🛠 Language and Tools
 <div style="display: inline_block"><br>
   <!---<img align="center" alt="gui-Nextjs" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg">
   <img align="center" alt="gui-React" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
