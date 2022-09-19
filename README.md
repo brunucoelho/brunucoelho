@@ -14,6 +14,8 @@ You can click the Preview link to take a look at your changes.
   <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=brunucoelho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunucoelho&layout=compact&langs_count=20&theme=dark"/>
 </div>
+  
+  ## 🛠 Languade and Tools
 <div style="display: inline_block"><br>
   <!---<img align="center" alt="gui-Nextjs" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg">
   <img align="center" alt="gui-React" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
@@ -23,17 +25,17 @@ You can click the Preview link to take a look at your changes.
   <!---<img align="center" alt="gui-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">--->
   <img align="center" alt="bru-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <!---<img align="center" alt="gui-Django" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
-  <img align="center" alt="gui-Vue" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">--->
+  <img align="center" alt="gui-Vue" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
 </div>
   
   ## 
-  <div>
+  <div>--->
   <img align="center" alt="bru-MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="bru-PostgrSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="bru-SqlServer" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  </div>
-  
-  ##
+  <img align="center" alt="Power BI Logo" height="50" width="50" src="https://powerapps.microsoft.com/images/application-logos/svg/powerbi.svg">
+    
+  ## 📲 Social networks
 <div> 
   <a target="_blank" href="https://www.instagram.com/brunucoelho/" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://api.whatsapp.com/send/?phone=5598988531373" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></img></a>
