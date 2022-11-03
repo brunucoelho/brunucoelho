@@ -1,5 +1,6 @@
 # 👋 Hi there! I’m Bruno Coelho;
-- 👀 I’m interested in learn about Data enginnering, data scientist and all about. But also always pursuing learn news things.
+- 🔁 in career transition
+- 👀 👀 I’m interested in learn about Data engineering, data science and all about. But also always pursuing learn news things.
 - 🌱 I’m currently learning Python, SLQ and DataBases.
 
 <!--- 💞️ I’m looking to collaborate on ...
