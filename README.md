@@ -1,7 +1,15 @@
-# 👋 Hi there! I’m Bruno Coelho;
-- 🔁 In career transition, and looking for an opportunity in the technology area.
-- 👀 I’m interested in learn about Data engineering, data science and all about. But also always pursuing learn news things.
-- 🌱 I’m currently learning Python, SLQ and DataBases.
+### 👋 Hi there! I’m Bruno Coelho;
+<img src="https://static.fullestop.com/mobile-site/images/data-analytics.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
+<p align="left">
+
+<p align="left">  
+Civil engineer, with experience in works budgeting, planning and application of business intelligence. Developing indicators and dashboards for further analysis of the projects I work on. My strong characteristic is teamwork, small team management, being proactive and good communication :)
+In addition to these experiences, I am a lover of data and its various applications and manipulations.</p>
+
+
+ - 🔁 In career transition, and looking for an opportunity in the technology area.  
+ - 👀 I’m interested in learn about Data engineering, data science and all about. But also always pursuing learn news things.  
+ - 🌱 I’m currently learning Python, SLQ and DataBases.
 
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
@@ -10,10 +18,13 @@
 brunucoelho/brunucoelho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
 <div align="center">
-  <a href="https://github.com/brunucoelho">
-  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=brunucoelho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunucoelho&layout=compact&langs_count=20&theme=dark"/>
+  <!--<a href="https://github.com/brunucoelho">
+  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=brunucoelho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>-->
+  <img height="140em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunucoelho&layout=compact&langs_count=20&theme=dark"/><p align="center"> 
 </div>
   
   ## 🛠 Language and Tools
