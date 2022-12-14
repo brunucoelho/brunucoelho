@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <!--<a href="https://github.com/brunucoelho">
   <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=brunucoelho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>-->
-  <img height="140em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunucoelho&layout=compact&langs_count=20&theme=dark"/><p align="center"> 
+  <img height="140em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunucoelho&layout=compact&langs_count=20&theme=transparent"/><p align="center"> 
 </div>
   
   ## 🛠 Language and Tools
