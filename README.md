@@ -1,8 +1,6 @@
 ### 👋 Hi there! I’m Bruno Coelho;
-<img src="https://static.fullestop.com/mobile-site/images/data-analytics.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
-<p align="left">
-
-<p align="left">  
+<img src="https://github.com/brunucoelho/brunucoelho/blob/main/avatar_brunucoelho_dataanalyst.png" width="325px" align="right" alt="Computador">
+<p align="left"> <p align="left">  
 Civil engineer, with experience in works budgeting, planning and application of business intelligence. Developing indicators and dashboards for further analysis of the projects I work on. My strong characteristic is teamwork, small team management, being proactive and good communication :)
 In addition to these experiences, I am a lover of data and its various applications and manipulations.</p>
 
