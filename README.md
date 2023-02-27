@@ -54,3 +54,6 @@ You can click the Preview link to take a look at your changes.
   <!---<a href = "mailto:themouseblack2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> --->
   <a href = "mailto:bruno-coelho@hotmail.com"><img src=https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white>
 </div>
+
+## 🎧 My recently play
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tocrtemjp15pnuaxi4ihn2fkl&cover_image=true&theme=novatorem&show_offline=false&background_color=7744d5&interchange=false&bar_color=53b14f&bar_color_cover=false)
