@@ -56,13 +56,6 @@ brunucoelho/brunucoelho is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-
-<!---
-<div align="center">
-  <!--<a href="https://github.com/brunucoelho">
-  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=brunucoelho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>-->
- <!--- <img height="140em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunucoelho&layout=compact&langs_count=20&theme=transparent"/><p align="center"> 
-</div> --->
     
   ## Social networks 📲
 <div align="center"> 
@@ -73,5 +66,12 @@ You can click the Preview link to take a look at your changes.
   <a href = "mailto:bruno-coelho@hotmail.com"><img src=https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white>
 </div>
 
-## My recently play 🎧
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tocrtemjp15pnuaxi4ihn2fkl&cover_image=true&theme=novatorem&show_offline=false&background_color=7744d5&interchange=false&bar_color=53b14f&bar_color_cover=false)
+##
+
+<div align="center">
+  <a href="[https://github.com/brunucoelho](https://github.com/brunucoelho/)">
+  <!--- <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=brunucoelho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> --->
+ <img height="140em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunucoelho&layout=compact&langs_count=20&theme=dark"/><p align="center"> 
+</div> 
+<!---## My recently play 🎧
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tocrtemjp15pnuaxi4ihn2fkl&cover_image=true&theme=novatorem&show_offline=false&background_color=7744d5&interchange=false&bar_color=53b14f&bar_color_cover=false) --->
