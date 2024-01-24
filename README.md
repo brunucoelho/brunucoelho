@@ -1,13 +1,32 @@
-### 👋 Hi there! I’m Bruno Coelho;
-<img src="https://github.com/brunucoelho/brunucoelho/blob/main/avatar_brunucoelho_dataanalyst.png" width="325px" align="right" alt="Computador">
-<p align="left"> <p align="left">  
-Civil engineer, with experience in works budgeting, planning and application of business intelligence. Developing indicators and dashboards for further analysis of the projects I work on. My strong characteristic is teamwork, small team management, being proactive and good communication :)
-In addition to these experiences, I am a lover of data and its various applications and manipulations.</p>
+## 👋 Hi there! I’m Bruno Coelho 📈;
 
+<!---<img src="https://github.com/brunucoelho/brunucoelho/blob/main/avatar_brunucoelho_dataanalyst.png" width="325px" align="right" alt="Computador">
+<p align="left"> <p align="left">  --->
+It's great connecting with you!
 
- - 🔁 In career transition, and looking for an opportunity in the technology area.  
- - 👀 I’m interested in learn about Data engineering, data science and all about. But also always pursuing learn news things.  
- - 🌱 I’m currently learning Python, SLQ and DataBases.
+ - 👷‍♂️ Civil engineer
+ - 🧑‍💻 Computer engineering student - UFMA (8th period)
+ - 📊 Governance IT intern at Alcoa
+ - 📍 São Luís/MA - Brazil
+
+  ## 🛠 Language and Tools
+<div style="display: inline_block"><br>
+  <!---<img align="center" alt="gui-Nextjs" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg">
+  <img align="center" alt="gui-React" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img align="center" alt="gui-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">--->
+  <img align="center" alt="bru-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="bru-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <!---<img align="center" alt="gui-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">--->
+  <img align="center" alt="bru-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <!---<img align="center" alt="gui-Django" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
+  <img align="center" alt="gui-Vue" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
+</div>
+  <div>--->
+  <img align="center" alt="bru-Jupyter" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" alt="bru-MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="bru-PostgrSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="bru-SqlServer" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img align="center" alt="Power BI Logo" height="50" width="50" src="https://powerapps.microsoft.com/images/application-logos/svg/powerbi.svg">
 
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
@@ -25,26 +44,10 @@ You can click the Preview link to take a look at your changes.
   <img height="140em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunucoelho&layout=compact&langs_count=20&theme=transparent"/><p align="center"> 
 </div>
   
-  ## 🛠 Language and Tools
-<div style="display: inline_block"><br>
-  <!---<img align="center" alt="gui-Nextjs" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg">
-  <img align="center" alt="gui-React" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img align="center" alt="gui-Js" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">--->
-  <img align="center" alt="bru-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="bru-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <!---<img align="center" alt="gui-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">--->
-  <img align="center" alt="bru-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <!---<img align="center" alt="gui-Django" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
-  <img align="center" alt="gui-Vue" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
-</div>
+
   
   ## 
-  <div>--->
-  <img align="center" alt="bru-Jupyter" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="bru-MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="bru-PostgrSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="bru-SqlServer" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  <img align="center" alt="Power BI Logo" height="50" width="50" src="https://powerapps.microsoft.com/images/application-logos/svg/powerbi.svg">
+
     
   ## 📲 Social networks
 <div> 
