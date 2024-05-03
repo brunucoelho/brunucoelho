@@ -6,7 +6,7 @@ It's great connecting with you!
 
  - 👷‍♂️ Civil engineer
  - 🧑‍💻 Computer engineering student - UFMA (8th period)
- - 📊 Governance IT intern at Alcoa
+ - 📊 Data Analyst at IADVH
  - 📍 São Luís/MA - Brazil
 
 ## Skills 🧠
