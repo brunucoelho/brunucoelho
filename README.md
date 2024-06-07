@@ -1,3 +1,7 @@
+<a href="https://komarev.com/ghpvc/?username=brunucoelho">
+  <img align="right" src="https://komarev.com/ghpvc/?username=brunucoelho&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
+
 ## 👋 Hi there! I’m Bruno Coelho 📈;
 
 <!---<img src="https://github.com/brunucoelho/brunucoelho/blob/main/avatar_brunucoelho_dataanalyst.png" width="325px" align="right" alt="Computador">
@@ -68,10 +72,7 @@ You can click the Preview link to take a look at your changes.
 
 ##
 
-<div align="center">
-  <a href="[https://github.com/brunucoelho](https://github.com/brunucoelho/)">
-  <!--- <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=brunucoelho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> --->
- <img height="140em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunucoelho&layout=compact&langs_count=20&theme=dark"/><p align="center"> 
-</div> 
-<!---## My recently play 🎧
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tocrtemjp15pnuaxi4ihn2fkl&cover_image=true&theme=novatorem&show_offline=false&background_color=7744d5&interchange=false&bar_color=53b14f&bar_color_cover=false) --->
+<div align="center"> 
+  <a align="center" href="https://github.com/brunucoelho"><img alt="Bruno's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=brunucoelho&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</div>
