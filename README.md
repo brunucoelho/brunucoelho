@@ -2,7 +2,7 @@
 
 #### Senior Data Analyst | Enginner | Aspiring Java Back-end Developer
 
-> Spezialist in **Microsoft Fabric** and Power BI to deliver high-impact insights, I am deeply committed to the world of **Software Development**. With experience in Data Engineering and Python , I am now specializing in **Back-end systems** to build scalable, data-aware applications.
+> Specialist in **Microsoft Fabric** and Power BI to deliver high-impact insights, I am deeply committed to the world of **Software Development**. With experience in Data Engineering and Python, I am now specializing in **Back-end systems** to build scalable, data-aware applications.
 
 - 📈 **Senior Data & Performance Analyst** at [@GrupoEquatorial](https://www.linkedin.com/company/grupoequatorial/posts/?feedView=all).
 - 💡 Extensive experience in process automation, cloud infrastructure, and data governance.
@@ -10,9 +10,9 @@
 
 ---
 
-#### 🛠️ Atualmente mais focado em:
+#### 🛠️ Currently focused on:
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff) ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff)
 
 #### Back-end & Software Engineering
 
@@ -37,7 +37,7 @@
 
 ---
 
-### 📂 Featured Projects
+#### 📂 Featured Projects
 
 > _Note: I am currently expanding my portfolio with academic and personal projects focused on Java Back-end._
 
@@ -46,28 +46,27 @@
 
 ---
 
-### 📫 Connect with me
+#### 📫 Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/brunucoelho/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:bruno-coelho@hotmail.com">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://api.whatsapp.com/send?phone=5598988531373">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
-
 
 **Location:** Goiânia, Brazil (Available for remote work worldwide 🌎)
 
 ---
 
-### 🌍 Languages
+#### 🌍 Languages
 
 - **English:** Intermediate (TOEFL ITP: 483 points) - _Actively improving for professional environments._
 - **Portuguese:** Native.
